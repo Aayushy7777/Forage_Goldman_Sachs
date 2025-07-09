@@ -1,0 +1,69 @@
+goldman sachs
+
+Interview Tip
+In a typical interview you’ll be asked “why are you interested in this role?” or “why are you interested in working at our company?”. Use this interview tip to explain why you want the job.
+“Why are you interested in this role?”
+I recently participated in Goldman Sachs' job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of an Operations team at Goldman Sachs. I worked on a project to streamline asset transfers and resolve trade settlement issues for high net worth clients. I developed my data analysis, problem-solving, and risk-management skills in a real-world context. Doing this program confirmed that I really enjoy working on operational challenges in financial services, and I'm excited to apply these skills to an Operations team at a company like Goldman Sachs.
+
+ Identified Issues
+Issue 1: Transaction TXN001 – "Awaiting funds transfer"
+Client Name: Client A
+
+Status: Pending
+
+Note: Awaiting funds transfer
+
+Impact: The buy transaction of $1,000,000 is not yet processed. If this amount is meant to fund the painting purchase, it may delay the availability of funds.
+
+Issue 2: Transaction TXN003 – "Pending due to compliance review"
+Client Name: Client A
+
+Status: Pending
+
+Note: Pending due to compliance review
+
+Impact: A $1,500,000 transaction is on hold for regulatory review, indicating a compliance bottleneck that can significantly delay settlement.
+
+Issue 3: Transaction TXN004 – "Technical issue detected"
+Client Name: Client B
+
+Status: Pending
+
+Note: Technical issue detected
+
+Impact: While not related directly to Client A, technical issues in the system might indicate wider IT disruptions affecting multiple clients, including Client A’s future or current trades.
+
+👥 Internal Teams to Engage
+For TXN001: Operations/Trading Desk – to investigate fund allocation and execution delays.
+
+For TXN003: Compliance and Risk Management – to expedite the review or provide clarity on regulatory flags.
+
+For TXN004: IT Department – to ensure the system errors are isolated and not impacting Client A.
+
+⚠️ Risk Assessment
+Financial Risk: Delays in fund availability could jeopardize the client’s ability to secure the painting, potentially resulting in financial loss or missed opportunity.
+
+Reputational Risk: High-net-worth clients expect timely service; any delay could impact client trust.
+
+Regulatory Risk: Compliance hold-ups could be indicative of larger underlying issues.
+
+✅ Mitigation Strategy
+Escalate TXN003 to senior compliance officers to prioritize the review.
+
+Confirm funding source for TXN001 with the client or treasury to expedite transfer.
+
+Request immediate system diagnostics from IT regarding TXN004 and assess impacts on other pending trades.
+
+🔄 Follow-Up Actions
+Schedule daily progress updates until all pending issues are resolved.
+
+Set up an alert system for trade anomalies tied to UHNW clients.
+
+Coordinate with relationship management to keep the client informed.
+
+📈 Recommendations
+Implement pre-trade compliance checks to catch delays earlier.
+
+Establish a UHNW priority processing queue for time-sensitive transactions.
+
+Regular stress testing of IT systems to identify vulnerabilities before they impact clients.
